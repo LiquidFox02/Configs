@@ -1,0 +1,6 @@
+2021/01/30-09:34:22.087 f3f Reusing MANIFEST /home/ranchhor/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/30-09:34:22.088 f3f Recovering log #4
+2021/01/30-09:34:22.107 f3f Reusing old log /home/ranchhor/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2021/01/30-09:34:36.456 f0a Level-0 table #8: started
+2021/01/30-09:34:36.471 f0a Level-0 table #8: 1792130 bytes OK
+2021/01/30-09:34:36.473 f0a Delete type=0 #4

@@ -1,0 +1,11 @@
+[2022-04-23T06:10:12.163Z] Validating found git in: git
+[2022-04-23T06:10:12.197Z] Using git 2.32.0 from git
+[2022-04-23T06:10:12.219Z] > git rev-parse --git-dir [4ms]
+[2022-04-23T06:10:12.223Z] Open repository: /home/ranchhor
+[2022-04-23T06:10:13.839Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/App.js [1ms]
+[2022-04-23T06:10:23.563Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/App.js [2ms]
+[2022-04-23T06:10:56.815Z] > git symbolic-ref --short HEAD [18ms]
+[2022-04-23T06:10:56.824Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [3ms]
+[2022-04-23T06:10:56.839Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-04-23T06:10:56.840Z] > git remote --verbose [2ms]
+[2022-04-23T06:10:56.981Z] > git config --get commit.template [1ms]

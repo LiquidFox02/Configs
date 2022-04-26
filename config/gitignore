@@ -1,0 +1,12 @@
+/.config/*
+
+!.config/zathura
+!.config/Alacritty
+!.config/bspwm
+!.config/dunst
+!.config/polybar
+!.config/sxhkd
+!.config/nvim
+!.config/compton
+
+

@@ -1,0 +1,10 @@
+[2022-04-23 10:50:14.717] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-23 10:50:14.725] [main] [info] update#setState idle
+[2022-04-23 10:50:14.762] [main] [info] ExtensionHostStarterWorker created
+[2022-04-23 10:50:15.566] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-23 10:50:15.690] [main] [info] Starting extension host with pid 15850 (fork() took 15 ms).
+[2022-04-23 10:50:15.690] [main] [info] ExtensionHostStarterWorker.start() took 18 ms.
+[2022-04-23 10:50:44.783] [main] [info] update#setState checking for updates
+[2022-04-23 10:50:44.873] [main] [info] update#setState idle
+[2022-04-23 11:28:46.798] [main] [info] Waiting for extension host with pid 15850 to exit.
+[2022-04-23 11:28:47.825] [main] [info] Extension host with pid 15850 exited with code: 0, signal: null.

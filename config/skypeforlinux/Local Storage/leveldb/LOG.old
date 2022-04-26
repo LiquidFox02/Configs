@@ -1,0 +1,10 @@
+2021/04/06-12:30:04.499 2d56 Reusing MANIFEST /home/ranchhor/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/04/06-12:30:04.501 2d56 Recovering log #86
+2021/04/06-12:30:04.504 2d56 Level-0 table #90: started
+2021/04/06-12:30:04.508 2d56 Level-0 table #90: 63212 bytes OK
+2021/04/06-12:30:04.508 2d56 Recovering log #89
+2021/04/06-12:30:04.509 2d56 Reusing old log /home/ranchhor/.config/skypeforlinux/Local Storage/leveldb/000089.log 
+2021/04/06-12:30:04.513 2d56 Delete type=0 #86
+2021/04/06-12:31:04.799 2d55 Level-0 table #92: started
+2021/04/06-12:31:04.802 2d55 Level-0 table #92: 72663 bytes OK
+2021/04/06-12:31:04.804 2d55 Delete type=0 #89

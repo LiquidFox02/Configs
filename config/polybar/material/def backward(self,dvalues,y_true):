@@ -1,0 +1,60 @@
+    def backward(self,dvalues,y_true):
+        samples = len(dvalues)
+        labels = len(dvalues[0])
+        if len(y_true.shape) == 1:
+            y_true = np.eye(labels)[y_true]
+        self.dinputs = -y_true/dvalues
+        self.dinputs = self.dinputs/samples
+        
+
+        def backward(self,dvalues):
+        self.dinputs = np.empty_like(dvalues)
+        for i ,(single_output, single_dvalues) in \
+            enumerate(zip(self.output,dvalues)):
+            single_output = single_output.reshape(-1,1)
+            jacobian_matrix = np.diagflat(single_output)- \
+                                np.dot(single_output, single_output.T)
+            self.dinputs[i] = np.dot(jacobian_matrix, single_dvalues)
+            
+
+
+            [[0.33333333 0.33333333 0.33333333]
+             [0.33333321 0.33333352 0.33333327]
+             [0.33333319 0.33333352 0.33333329]
+             [0.33333288 0.33333351 0.33333361]
+             [0.3333322  0.33333351 0.33333429]]
+            1.098612427347201
+            acc: 0.38666666666666666
+            [[ 2.27348207e-04  1.11717290e-04  1.05638642e-04]
+             [-1.22447785e-04  8.35971020e-05 -1.49057436e-04]]
+            [[ 0.00049394 -0.00027387 -0.00061088]]
+            [[-1.64596105e-04  1.28788984e-04  3.58071210e-05]
+             [-1.46110532e-04  2.33140711e-04 -8.70301787e-05]
+             [ 1.04840413e-04 -1.55322106e-04  5.04816930e-05]]
+            [[-1.04558948e-05  1.86832318e-06  8.58757158e-06]]
+
+class smax_crossentropy():
+    def __init__(self):
+        self.activation = softmax()
+        self.loss = CategoricalCrossEntropy_Loss()
+    def forward(self,inputs,y_true):
+        self.activation.forward(inputs)
+        self.output = self.activation.output
+        return self.loss.calculate(self.output,y_true)
+    def backward(self,dvalues,y_true):
+        samples = len(dvalues)
+        if len(y_true.shape) == 2:
+            y_true = np.argmax(y_true,axis = 1)
+        self.dinputs = dvalues.copy()
+        self.dinputs[range(samples),y_true]  -= 1
+        self.dinputs = self.dinputs/samples
+
+Problem Solving Through Programming in C by NPTEL
+Developing Soft Skills and Personality by NPTEL
+Introduction to Internet of Things by NPTEL
+Discrete Mathematics by NPTEl
+
+
+Python Basics by coursera
+AI for Everyone by coursera
+Introduction to Philosophy by courseras

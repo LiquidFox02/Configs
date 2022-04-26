@@ -1,0 +1,10 @@
+[2022-04-23 11:39:38.282] [renderer1] [critical] Extension 'TabNine.tabnine-vscode CANNOT USE these API proposals 'inlineCompletions'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-04-23 11:39:38.289] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 11:39:38.516] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 11:39:42.389] [renderer1] [error] [Extension Host] (node:4320) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-04-23 11:40:10.686] [renderer1] [critical] Extension 'TabNine.tabnine-vscode CANNOT USE these API proposals 'inlineCompletions'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-04-23 11:40:10.692] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 11:40:11.063] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 11:40:11.973] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 11:40:13.399] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout

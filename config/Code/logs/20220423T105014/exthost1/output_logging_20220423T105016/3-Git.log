@@ -1,0 +1,23 @@
+[2022-04-23T05:20:16.907Z] Validating found git in: git
+[2022-04-23T05:20:16.942Z] Using git 2.32.0 from git
+[2022-04-23T05:20:16.972Z] > git rev-parse --git-dir [16ms]
+[2022-04-23T05:20:16.975Z] Open repository: /home/ranchhor
+[2022-04-23T05:20:17.745Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/login.js [4ms]
+[2022-04-23T05:20:20.282Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/login.js [2ms]
+[2022-04-23T05:20:20.397Z] > git symbolic-ref --short HEAD [2ms]
+[2022-04-23T05:20:20.409Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main [2ms]
+[2022-04-23T05:20:20.433Z] > git remote --verbose [3ms]
+[2022-04-23T05:20:20.434Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+[2022-04-23T05:20:20.581Z] > git config --get commit.template [4ms]
+[2022-04-23T05:32:15.821Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js [1ms]
+[2022-04-23T05:32:26.178Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js [1ms]
+[2022-04-23T05:33:23.066Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/package-lock.json [1ms]
+[2022-04-23T05:33:26.089Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/package.json [1ms]
+[2022-04-23T05:33:29.571Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js [2ms]
+[2022-04-23T05:39:58.229Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/login.js [2ms]
+[2022-04-23T05:44:06.534Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/login.js [1ms]
+[2022-04-23T05:44:37.350Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js [4ms]
+[2022-04-23T05:45:12.652Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js [1ms]
+[2022-04-23T05:45:55.106Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/login.js [1ms]
+[2022-04-23T05:45:56.555Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js [1ms]
+[2022-04-23T05:46:38.723Z] > git ls-files --stage -- /home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/src/login.js [1ms]

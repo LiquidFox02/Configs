@@ -1,0 +1,4 @@
+[2022-04-26 22:57:43.310] [renderer1] [critical] Extension 'TabNine.tabnine-vscode CANNOT USE these API proposals 'inlineCompletions'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-04-26 22:57:43.316] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-26 22:57:43.643] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-26 22:57:46.314] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout

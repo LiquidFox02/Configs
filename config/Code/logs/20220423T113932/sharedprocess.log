@@ -1,0 +1,4 @@
+[2022-04-23 11:39:38.869] [sharedprocess] [info] Starting worker process with pid 4526 (type: fileWatcher, window: 1).
+[2022-04-23 11:40:09.740] [sharedprocess] [info] Worker process with pid 4526 terminated normally (type: fileWatcher, window: 1).
+[2022-04-23 11:40:10.667] [sharedprocess] [info] Starting worker process with pid 6392 (type: fileWatcher, window: 1).
+[2022-04-23 11:40:19.507] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

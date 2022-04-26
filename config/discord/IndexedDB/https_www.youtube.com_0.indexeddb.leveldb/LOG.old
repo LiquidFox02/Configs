@@ -1,0 +1,7 @@
+2022/03/17-22:43:08.493 ac02 Reusing MANIFEST /home/ranchhor/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/17-22:43:08.494 ac02 Recovering log #3
+2022/03/17-22:43:08.494 ac02 Reusing old log /home/ranchhor/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/03/17-22:57:09.989 ee73 Level-0 table #5: started
+2022/03/17-22:57:09.991 ee73 Level-0 table #5: 1216 bytes OK
+2022/03/17-22:57:09.993 ee73 Delete type=0 #3
+2022/03/17-22:57:09.993 ee73 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

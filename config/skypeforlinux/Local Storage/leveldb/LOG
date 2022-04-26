@@ -1,0 +1,18 @@
+2021/04/06-20:56:49.800 32aa Reusing MANIFEST /home/ranchhor/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/04/06-20:56:49.800 32aa Recovering log #91
+2021/04/06-20:56:49.801 32aa Reusing old log /home/ranchhor/.config/skypeforlinux/Local Storage/leveldb/000091.log 
+2021/04/06-20:57:56.438 32aa Level-0 table #95: started
+2021/04/06-20:57:56.443 32aa Level-0 table #95: 72716 bytes OK
+2021/04/06-20:57:56.444 32aa Delete type=0 #91
+2021/04/06-22:15:10.408 3b17 Level-0 table #97: started
+2021/04/06-22:15:10.412 3b17 Level-0 table #97: 72652 bytes OK
+2021/04/06-22:15:10.413 3b17 Delete type=0 #94
+2021/04/06-22:15:10.413 3be6 Compacting 4@0 + 1@1 files
+2021/04/06-22:15:10.416 3be6 Generated table #98@0: 13 keys, 72864 bytes
+2021/04/06-22:15:10.416 3be6 Compacted 4@0 + 1@1 files => 72864 bytes
+2021/04/06-22:15:10.418 3be6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/06-22:15:10.418 3be6 Delete type=2 #88
+2021/04/06-22:15:10.418 3be6 Delete type=2 #95
+2021/04/06-22:15:10.418 3be6 Delete type=2 #97
+2021/04/06-22:15:10.418 3be6 Delete type=2 #92
+2021/04/06-22:15:10.418 3be6 Delete type=2 #90

@@ -1,0 +1,53 @@
+#! /bin/sh
+setxkbmap -option caps:escape
+#kill all programs
+pkill sxhkd
+pkill picom
+pkill compton
+pkill dunst
+pkill polybar
+pkill caffeine
+pkill lxappearance 
+#autostart
+$HOME/.config/polybar/material/launch.sh &
+#$HOME/Clones/hideIt.sh --name '^Polybar tray window$' --wait --direction bottom --steps 2 --signal --peek 2 --region 400x1080+1120+-20 &
+#$HOME/Clones/picom/build/src/picom -f -D 5 -i 0.9&
+emacs --daemon &
+compton -b & 
+#picom &
+#redshift -l 27.2046:77.4977 &
+#redshift -l 40.7128:-74.0060 & 
+exec "/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1"  &
+dunst &
+#caffeine-indicator &
+nitrogen --restore
+nm-applet &
+sxhkd &
+xsetroot -cursor_name left_ptr &
+lxappearance &
+pkill lxappearance &
+#/opt/miscellaneous/floating.sh &
+#. "${HOME}/.cache/wal/colors.sh"
+#bspwm
+bspc monitor -d I II III IV V 
+#bspc monitor  -d     
+bspc config border_width         3
+bspc config window_gap           8 
+bspc config split_ratio             0.50
+bspc config borderless_monocle      true
+bspc config gapless_monocle         false 
+bspc config focus_follows_pointer   false
+bspc rule -a Gimp desktop='^4' state=floating follow=on
+bspc rule -a emacsclient state=tiled
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
+bspc rule -a yad state=floating
+bspc config focused_border_color "#83a598" 
+bspc config normal_border_color "#1d2021"
+# Set the border colors.
+#bspc config normal_border_color "$color1"
+#bspc config active_border_color "$color2"
+#bspc config focused_border_color "$color15"
+#bspc config presel_feedback_color "$color1"
+#/opt/miscellaneous/monocle.sh & ; disown %1
+#bspc config external_rules_command "/home/ranchhor/.config/bspwm/external_rules"

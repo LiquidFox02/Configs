@@ -1,0 +1,68 @@
+[2022-04-23 10:50:15.854] [renderer1] [critical] Extension 'TabNine.tabnine-vscode CANNOT USE these API proposals 'inlineCompletions'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-04-23 10:50:15.858] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 10:50:16.116] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-23 10:50:18.722] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout
+[2022-04-23 10:56:39.963] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout
+[2022-04-23 11:04:33.870] [renderer1] [error] [Extension Host] Canceled: Canceled
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:32312
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at T.cancel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6221)
+	at D.cancel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6762)
+	at Object.W (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12149)
+	at i._receiveCancel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12876)
+	at i._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:11196)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:8947
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:34275
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at o._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23615)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21149
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at v.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15865)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14995
+	at Socket.P (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13797)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-04-23 11:08:21.788] [renderer1] [error] [Extension Host] Canceled: Canceled
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:32312
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at T.cancel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6221)
+	at D.cancel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6762)
+	at Object.W (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12149)
+	at i._receiveCancel (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:12876)
+	at i._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:11196)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:8947
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:34275
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at d.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19034)
+	at o._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23615)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21149
+	at u.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+	at v.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1856)
+	at v.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15865)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14995
+	at Socket.P (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:13797)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-04-23 11:15:38.999] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/ranchhor/.vscode/extensions/tabnine.tabnine-vscode-3.5.42/out/extension.js:17:31695)
+	at listOnTimeout (node:internal/timers:557:17)
+	at processTimers (node:internal/timers:500:7)
+[2022-04-23 11:16:03.457] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout

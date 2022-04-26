@@ -1,0 +1,6 @@
+2021/07/09-13:34:02.006 235a Creating DB /home/ranchhor/.config/google-chrome/Default/IndexedDB/https_logmeinvoc.iad1.qualtrics.com_0.indexeddb.leveldb since it was missing.
+2021/07/09-13:34:02.014 235a Reusing MANIFEST /home/ranchhor/.config/google-chrome/Default/IndexedDB/https_logmeinvoc.iad1.qualtrics.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-13:34:11.626 247a Level-0 table #5: started
+2021/07/09-13:34:11.627 247a Level-0 table #5: 869 bytes OK
+2021/07/09-13:34:11.628 247a Delete type=0 #3
+2021/07/09-13:34:11.628 247a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

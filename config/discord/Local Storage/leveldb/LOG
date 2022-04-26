@@ -1,0 +1,18 @@
+2022/03/26-22:28:49.000 a20b Reusing MANIFEST /home/ranchhor/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/03/26-22:28:49.001 a20b Recovering log #295
+2022/03/26-22:28:49.002 a20b Reusing old log /home/ranchhor/.config/discord/Local Storage/leveldb/000295.log 
+2022/03/26-22:29:50.266 a20b Level-0 table #298: started
+2022/03/26-22:29:50.272 a20b Level-0 table #298: 18201 bytes OK
+2022/03/26-22:29:50.285 a20b Delete type=0 #295
+2022/03/26-22:36:39.560 a1fc Level-0 table #300: started
+2022/03/26-22:36:39.569 a1fc Level-0 table #300: 351650 bytes OK
+2022/03/26-22:36:39.571 a1fc Delete type=0 #297
+2022/03/26-22:36:39.571 a1fc Compacting 4@0 + 1@1 files
+2022/03/26-22:36:39.578 a1fc Generated table #301@0: 102 keys, 361987 bytes
+2022/03/26-22:36:39.578 a1fc Compacted 4@0 + 1@1 files => 361987 bytes
+2022/03/26-22:36:39.579 a1fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/03/26-22:36:39.580 a1fc Delete type=2 #300
+2022/03/26-22:36:39.580 a1fc Delete type=2 #298
+2022/03/26-22:36:39.580 a1fc Delete type=2 #294
+2022/03/26-22:36:39.580 a1fc Delete type=2 #289
+2022/03/26-22:36:39.580 a1fc Delete type=2 #292

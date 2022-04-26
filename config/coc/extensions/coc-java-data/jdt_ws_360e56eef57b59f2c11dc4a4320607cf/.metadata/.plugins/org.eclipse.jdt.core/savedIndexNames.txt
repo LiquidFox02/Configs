@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/home/ranchhor/.config/coc/extensions/coc-java-data/jdt_ws_360e56eef57b59f2c11dc4a4320607cf/.metadata/.plugins/org.eclipse.jdt.core
+1478649908.index
+3842426239.index
+646308851.index
+2657304868.index
+281509436.index

@@ -1,0 +1,11 @@
+2022/04/22-23:10:01.408 e56 Reusing MANIFEST /home/ranchhor/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/04/22-23:10:01.413 e56 Recovering log #281
+2022/04/22-23:10:01.432 e56 Level-0 table #284: started
+2022/04/22-23:10:01.470 e56 Level-0 table #284: 358612 bytes OK
+2022/04/22-23:10:01.471 e56 Recovering log #283
+2022/04/22-23:10:01.502 e56 Level-0 table #285: started
+2022/04/22-23:10:01.516 e56 Level-0 table #285: 538554 bytes OK
+2022/04/22-23:10:01.521 e56 Delete type=0 #281
+2022/04/22-23:10:01.521 e56 Delete type=0 #283
+2022/04/22-23:10:13.887 13d1 Level-0 table #288: started
+2022/04/22-23:10:13.891 13d1 Level-0 table #288: 62116 bytes OK

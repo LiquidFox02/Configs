@@ -1,0 +1,22 @@
+2022/04/23-11:19:50.855 7301 Reusing MANIFEST /home/ranchhor/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/04/23-11:19:50.856 7301 Recovering log #213
+2022/04/23-11:19:50.873 7301 Reusing old log /home/ranchhor/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000213.log 
+2022/04/23-11:19:52.615 72e2 Level-0 table #217: started
+2022/04/23-11:19:52.643 72e2 Level-0 table #217: 2308890 bytes OK
+2022/04/23-11:19:52.645 72e2 Delete type=0 #213
+2022/04/23-11:19:52.646 72e2 Compacting 4@0 + 2@1 files
+2022/04/23-11:19:52.688 72e2 Generated table #218@0: 17 keys, 2165315 bytes
+2022/04/23-11:19:52.805 72e2 Generated table #219@0: 9 keys, 2617026 bytes
+2022/04/23-11:19:52.835 72e2 Generated table #220@0: 6 keys, 2240404 bytes
+2022/04/23-11:19:52.848 72e2 Generated table #221@0: 12 keys, 770265 bytes
+2022/04/23-11:19:52.848 72e2 Compacted 4@0 + 2@1 files => 7793010 bytes
+2022/04/23-11:19:52.852 72e2 compacted to: files[ 0 4 1 0 0 0 0 ]
+2022/04/23-11:19:52.852 72e2 Delete type=2 #217
+2022/04/23-11:19:52.852 72e2 Delete type=2 #208
+2022/04/23-11:19:52.852 72e2 Delete type=2 #212
+2022/04/23-11:19:52.852 72e2 Delete type=2 #210
+2022/04/23-11:19:52.852 72e2 Delete type=2 #207
+2022/04/23-11:19:52.852 72e2 Delete type=2 #214
+2022/04/23-11:19:53.299 72d6 Level-0 table #223: started
+2022/04/23-11:19:53.317 72d6 Level-0 table #223: 1257546 bytes OK
+2022/04/23-11:19:53.320 72d6 Delete type=0 #216

@@ -1,0 +1,32 @@
+[2022-04-26 22:57:43.775] [exthost] [info] Extension host with pid 50821 started
+[2022-04-26 22:57:43.775] [exthost] [info] Skipping acquiring lock for /home/ranchhor/.config/Code/User/workspaceStorage/59d2763fe24133c03a34f96bd82556f7.
+[2022-04-26 22:57:43.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-04-26 22:57:43.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-04-26 22:57:43.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-26 22:57:43.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-26 22:57:43.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-26 22:57:43.897] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-04-26 22:57:44.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-26 22:57:44.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-26 22:57:44.373] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-26 22:57:44.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-04-26 22:57:44.519] [exthost] [info] Eager extensions activated
+[2022-04-26 22:57:45.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 22:57:45.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 22:57:45.074] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 22:57:45.124] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 22:57:45.167] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 22:57:45.175] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-26 22:57:45.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-04-26 22:57:50.725] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-26 22:57:50.770] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.N [as canceled] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+	at i._remoteCall (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:13900)
+	at Proxy.p.<computed>.U.charCodeAt.p.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:10296)
+	at w.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:89:40417)
+	at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:99:59479)
+	at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+	at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+[2022-04-26 22:57:51.757] [exthost] [info] Extension host with pid 50821 exiting with code 0

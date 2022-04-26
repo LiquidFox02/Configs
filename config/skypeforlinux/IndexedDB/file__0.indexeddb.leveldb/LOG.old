@@ -1,0 +1,12 @@
+2021/04/06-12:30:05.727 2d62 Reusing MANIFEST /home/ranchhor/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/04/06-12:30:05.728 2d62 Recovering log #63
+2021/04/06-12:30:05.743 2d62 Reusing old log /home/ranchhor/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000063.log 
+2021/04/06-12:30:30.779 2d62 Level-0 table #68: started
+2021/04/06-12:30:30.793 2d62 Level-0 table #68: 1609322 bytes OK
+2021/04/06-12:30:30.794 2d62 Delete type=0 #63
+2021/04/06-13:00:16.799 303c Compacting 1@1 + 1@2 files
+2021/04/06-13:00:16.816 303c Generated table #69@1: 6791 keys, 1067814 bytes
+2021/04/06-13:00:16.816 303c Compacted 1@1 + 1@2 files => 1067814 bytes
+2021/04/06-13:00:16.817 303c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/06-13:00:16.817 303c Delete type=2 #68
+2021/04/06-13:00:16.817 303c Delete type=2 #65

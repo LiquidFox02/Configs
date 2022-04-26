@@ -1,0 +1,5 @@
+2022/03/24-00:26:11.696 6702 Reusing MANIFEST /home/ranchhor/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/03/24-00:26:11.696 6702 Recovering log #291
+2022/03/24-00:26:11.699 6702 Level-0 table #294: started
+2022/03/24-00:26:11.706 6702 Level-0 table #294: 349064 bytes OK
+2022/03/24-00:26:11.710 6702 Delete type=0 #291

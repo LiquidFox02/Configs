@@ -1,0 +1,1577 @@
+{
+  "coc-python|/home/ranchhor": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:b894bb956c0fb3ca8973d866226501ab": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b894bb956c0fb3ca8973d866226501ab": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:1d7dd1010e5a938cec8bb06947ddafde": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1d7dd1010e5a938cec8bb06947ddafde": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:883134e6bf99edc73168fd8d36982692": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:883134e6bf99edc73168fd8d36982692": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:b61e26c42b381fbefc78e5deb5307b78": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b61e26c42b381fbefc78e5deb5307b78": [],
+    "SelectedPythonPath": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python"
+  },
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643"
+      },
+      "expiry": 1648147182418
+    },
+    "/usr/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce"
+      },
+      "expiry": 1648147182419
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643"
+      },
+      "expiry": 1648147182420
+    },
+    "/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce"
+      },
+      "expiry": 1648147182479
+    },
+    "/home/ranchhor/anaconda3/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b657b7103f62a9293b7dbcbf83a90efd3e9298b7503f0f506a47272bb133c271c383a78b25edc1cf7a7f095b9e5fcd0b3106504c32aa30fc39f99947b25f5505"
+      },
+      "expiry": 1648147182421
+    },
+    "/home/ranchhor/anaconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365"
+      },
+      "expiry": 1648147182421
+    },
+    "/home/ranchhor/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365"
+      },
+      "expiry": 1648147182422
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+        "type": "Unknown"
+      }
+    ],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b657b7103f62a9293b7dbcbf83a90efd3e9298b7503f0f506a47272bb133c271c383a78b25edc1cf7a7f095b9e5fcd0b3106504c32aa30fc39f99947b25f5505",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a718016c2edb49b3fa9ffd30969420cfff502494961726e50c086cb4035e7bccee600c90bdbaf477b9be7e8fd77aaa0cc6c4a03a69530559d9b36289940d5d75",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a718016c2edb49b3fa9ffd30969420cfff502494961726e50c086cb4035e7bccee600c90bdbaf477b9be7e8fd77aaa0cc6c4a03a69530559d9b36289940d5d75",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a718016c2edb49b3fa9ffd30969420cfff502494961726e50c086cb4035e7bccee600c90bdbaf477b9be7e8fd77aaa0cc6c4a03a69530559d9b36289940d5d75",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.6-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.6-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a718016c2edb49b3fa9ffd30969420cfff502494961726e50c086cb4035e7bccee600c90bdbaf477b9be7e8fd77aaa0cc6c4a03a69530559d9b36289940d5d75",
+        "type": "Unknown"
+      }
+    ],
+    "/home/ranchhor/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "info": {
+          "architecture": 3,
+          "path": "/home/ranchhor/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.11-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 11,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.11-final"
+          },
+          "sysPrefix": "/home/ranchhor/anaconda3",
+          "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/ranchhor/anaconda3",
+          "envName": "base",
+          "displayName": "Python 3.8.11 64-bit ('base': conda)"
+        }
+      },
+      "expiry": 1647014766674
+    },
+    "/home/ranchhor/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.11 64-bit ('base': conda)",
+        "hash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365-dac009791e0f1fa8621368580c892787"
+      },
+      "expiry": 1647014766665
+    },
+    "/home/ranchhor/anaconda3/envs/pynvim/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/pynvim/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/pynvim",
+        "fileHash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1"
+      },
+      "expiry": 1648147182530
+    },
+    "CONDA_ENVIRONMENTS": {
+      "data": [
+        {
+          "name": "base",
+          "path": "/home/ranchhor/anaconda3"
+        },
+        {
+          "name": "pynvim",
+          "path": "/home/ranchhor/anaconda3/envs/pynvim"
+        },
+        {
+          "name": "tfgpu",
+          "path": "/home/ranchhor/anaconda3/envs/tfgpu"
+        }
+      ]
+    },
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/pynvim/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/pynvim",
+        "fileHash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3/envs/pynvim",
+        "envName": "pynvim"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "envName": "tfgpu"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3",
+        "envName": "base"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/pynvim/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/pynvim",
+        "fileHash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3/envs/pynvim",
+        "envName": "pynvim"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "envName": "tfgpu"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.11-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 11,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.11-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3",
+        "fileHash": "b624f89da72d77f2c17a7500fa872db34ab6fc4313494aec7796d9b9fd7bd2bda44e781aab16d5bbc6a23cd74ffdfe5bc58096af22e3500e6150d044c9110365",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/home/ranchhor/anaconda3",
+        "envName": "base"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/home/ranchhor/anaconda3/envs/pynvim/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit ('pynvim': conda)",
+        "hash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1-e369b84b45a1779aeb0cb48b04f06b58"
+      },
+      "expiry": 1647014766667
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643-c4dae99d983cbbc83364e358cd300166"
+      },
+      "expiry": 1647013979320
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.7 64-bit",
+        "hash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643-392e019f5c726ab7dbb76f2c1b7a8582"
+      },
+      "expiry": 1647013979440
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "/home/ranchhor/anaconda3/envs/pynvim/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1",
+        "info": {
+          "architecture": 3,
+          "path": "/home/ranchhor/anaconda3/envs/pynvim/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/home/ranchhor/anaconda3/envs/pynvim",
+          "fileHash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/ranchhor/anaconda3/envs/pynvim",
+          "envName": "pynvim",
+          "displayName": "Python 3.8.5 64-bit ('pynvim': conda)"
+        }
+      },
+      "expiry": 1647014766677
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1647013979342
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.7-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 7,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.7-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+          "type": "Unknown",
+          "displayName": "Python 3.9.7 64-bit"
+        }
+      },
+      "expiry": 1647015068918
+    },
+    "SelectedPythonPath": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "/home/ranchhor/anaconda3/envs/pynvim/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/pynvim/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/pynvim",
+        "fileHash": "a4c796ec6fb102f67a43ee5c2cc9cd88cc600d23c3f4d48a91eab9904ed8be0f33843ea868fd81aa5029a38e4a7b75cd29efc937f9f84718b891ad629b1849c1"
+      },
+      "expiry": 1623144232490
+    },
+    "/home/ranchhor/anaconda3/envs/pynvim/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/pynvim/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/pynvim",
+        "fileHash": "3bcb1923b8781c9590f52ce1d13719162eec72cd0f738c838d3fce1a8690d48cdafcf9736dcbf267fec9d83bc46f0b126b69666616a97366f62bb7ac6872efec"
+      },
+      "expiry": 1623144232475
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+      "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+      "type": "Unknown"
+    },
+    "ProposeLSBanner": false,
+    "pylint_DisableLinterInstallPrompt": true,
+    "/usr/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a718016c2edb49b3fa9ffd30969420cfff502494961726e50c086cb4035e7bccee600c90bdbaf477b9be7e8fd77aaa0cc6c4a03a69530559d9b36289940d5d75"
+      },
+      "expiry": 1648147182419
+    },
+    "/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.7-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 7,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.7-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "a718016c2edb49b3fa9ffd30969420cfff502494961726e50c086cb4035e7bccee600c90bdbaf477b9be7e8fd77aaa0cc6c4a03a69530559d9b36289940d5d75"
+      },
+      "expiry": 1648147182477
+    },
+    "/home/ranchhor/anaconda3/envs/tfgpu/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8"
+      },
+      "expiry": 1648147182517
+    },
+    "/home/ranchhor/anaconda3/envs/tfgpu/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "fileHash": "5d51d17b84590d57f9d72d6ea834c914e87419e088bd595376712a4c0a635ba9c9c69793368a98248c3cbd8ae80242b5e8054ef9d13112bd5bba0249cf09569c"
+      },
+      "expiry": 1647013979254
+    },
+    "/home/ranchhor/anaconda3/envs/tfgpu/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+        "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8"
+      },
+      "expiry": 1647013979236
+    },
+    "/home/ranchhor/anaconda3/envs/tfgpu/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8-6ef629651288a8454766b12bde5bb834"
+      },
+      "expiry": 1648147182521
+    },
+    "/usr/bin/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce-596ad8a1ed3f3b2e6fa07fdfa7a11c33"
+      },
+      "expiry": 1647013979323
+    },
+    "/bin/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.6 64-bit",
+        "hash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce-4a343a9c31095e53150f3909b3818cda"
+      },
+      "expiry": 1647013979326
+    },
+    "/home/ranchhor/anaconda3/envs/tfgpu/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+        "info": {
+          "architecture": 3,
+          "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+          "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/home/ranchhor/anaconda3/envs/tfgpu",
+          "envName": "tfgpu",
+          "cachedEntry": true,
+          "displayName": "Python 3.9.6 64-bit ('tfgpu': conda)",
+          "__store": true
+        }
+      },
+      "expiry": 1648147182503
+    },
+    "/usr/bin/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1647013979345
+    },
+    "/bin/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.6-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.6-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "c9c4fecebefed167e46ba220919e7c99a6c2afc4b1ff25b846a20e88e75abd7e2e577a328b79ce88c8d7ea7249dce1aff22060018fdc4f088966a145b9d317ce",
+          "type": "Unknown",
+          "displayName": "Python 3.8.6 64-bit"
+        }
+      },
+      "expiry": 1647013979349
+    }
+  },
+  "coc-python|/home/ranchhor/Desktop/CODE/Python/DiscBOTS/GOURIBOTT": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5a04123a713a77587a81410ff1a436be": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5a04123a713a77587a81410ff1a436be": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/ranchhor/Desktop/CODE/Python/DiscBOTS/GOURIBOTT": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "c8f40614b7f442df0ad34eebb83ae75b0d182e817afc3065eb7118deff3115f3fdff9eaecf354af9ced9c8da7a00cc78fe310db46b572d5c5ebbf5c2ed449bf1",
+      "type": "Unknown",
+      "displayName": "Python 3.8.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/ranchhor/anaconda3/envs/pynvim/bin/python"
+  },
+  "coc-python|/home/ranchhor/Desktop/CODE/Python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b894bb956c0fb3ca8973d866226501ab": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b894bb956c0fb3ca8973d866226501ab": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/ranchhor/Desktop/CODE/Python": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "c8f40614b7f442df0ad34eebb83ae75b0d182e817afc3065eb7118deff3115f3fdff9eaecf354af9ced9c8da7a00cc78fe310db46b572d5c5ebbf5c2ed449bf1",
+      "type": "Unknown",
+      "displayName": "Python 3.8.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "SelectedPythonPath": "/home/ranchhor/anaconda3/envs/pynvim/bin/python"
+  },
+  "coc-python|/home/ranchhor/Desktop/CODE/Cpp": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:44810f039c5032b916f5d7a9db4c1a04": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:44810f039c5032b916f5d7a9db4c1a04": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/ranchhor/Desktop/CODE/Cpp": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "c8f40614b7f442df0ad34eebb83ae75b0d182e817afc3065eb7118deff3115f3fdff9eaecf354af9ced9c8da7a00cc78fe310db46b572d5c5ebbf5c2ed449bf1",
+      "type": "Unknown",
+      "displayName": "Python 3.8.6 64-bit"
+    }
+  },
+  "coc-python|/home/ranchhor/Desktop/ML/NLP": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:883134e6bf99edc73168fd8d36982692": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:883134e6bf99edc73168fd8d36982692": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/ranchhor/Desktop/ML/NLP": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.8.6-final",
+        "major": 3,
+        "minor": 8,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.8.6-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "c8f40614b7f442df0ad34eebb83ae75b0d182e817afc3065eb7118deff3115f3fdff9eaecf354af9ced9c8da7a00cc78fe310db46b572d5c5ebbf5c2ed449bf1",
+      "type": "Unknown",
+      "displayName": "Python 3.8.6 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/ranchhor/.config/alacritty": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:af42681c1a77e86205b2a86ae8af4d4c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:af42681c1a77e86205b2a86ae8af4d4c": []
+  },
+  "coc-python|/home/ranchhor/Desktop/CODE/Python/DataStructures": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:62d41afba6b95ecf13704f8488de6d2b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:62d41afba6b95ecf13704f8488de6d2b": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/ranchhor/Desktop/CODE/Python/DataStructures": {
+      "architecture": 3,
+      "path": "/home/ranchhor/anaconda3/envs/tfgpu/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.6-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 6,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.6-final"
+      },
+      "sysPrefix": "/home/ranchhor/anaconda3/envs/tfgpu",
+      "fileHash": "027109d26d333328461721d46b69a6aed86838271eb712d909439752d998a8f9d9d87cc8bda65ea048aab053c159308f99fda1454c317e57cc688d212a9e82f8",
+      "companyDisplayName": "Anaconda, Inc.",
+      "type": "Conda",
+      "envPath": "/home/ranchhor/anaconda3/envs/tfgpu",
+      "envName": "tfgpu",
+      "cachedEntry": true,
+      "displayName": "Python 3.9.6 64-bit ('tfgpu': conda)"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/ranchhor/Desktop/chatbox": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f0b702f1dc4becd5c7b3a75c15a5f10a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f0b702f1dc4becd5c7b3a75c15a5f10a": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/ranchhor/Desktop/chatbox": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.7-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.7-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "d8bee7e41ef5b8bdb4423184d6ada68eb56372c9c54db4f8003e7019f381224a3607e1aa09f0ece7a71a7ba83a69c27a6704c056c7df7ad4e2f34d542d26f643",
+      "type": "Unknown",
+      "displayName": "Python 3.9.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:b61e26c42b381fbefc78e5deb5307b78": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b61e26c42b381fbefc78e5deb5307b78": []
+  }
+}

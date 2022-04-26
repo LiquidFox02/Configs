@@ -1,0 +1,15 @@
+2022/03/26-22:50:16.353 a20b Reusing MANIFEST /home/ranchhor/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/26-22:50:16.354 a20b Recovering log #4
+2022/03/26-22:50:16.354 a20b Reusing old log /home/ranchhor/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/03/26-23:47:40.516 b5fb Level-0 table #8: started
+2022/03/26-23:47:40.518 b5fb Level-0 table #8: 209 bytes OK
+2022/03/26-23:47:40.520 b5fb Delete type=0 #4
+2022/03/26-23:47:40.520 b5fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/03/26-23:47:40.520 b5fb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 62 : 1
+2022/03/26-23:47:40.520 b5fb Compacting 1@1 + 1@2 files
+2022/03/26-23:47:40.522 b5fb Generated table #9@1: 19 keys, 539 bytes
+2022/03/26-23:47:40.522 b5fb Compacted 1@1 + 1@2 files => 539 bytes
+2022/03/26-23:47:40.524 b5fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/03/26-23:47:40.524 b5fb Delete type=2 #8
+2022/03/26-23:47:40.524 b5fb Delete type=2 #5
+2022/03/26-23:47:40.524 b5fb Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 62 : 1 .. (end); will stop at (end)

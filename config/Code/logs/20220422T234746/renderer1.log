@@ -1,0 +1,14 @@
+[2022-04-22 23:47:48.064] [renderer1] [critical] Extension 'TabNine.tabnine-vscode CANNOT USE these API proposals 'inlineCompletions'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-04-22 23:47:48.069] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-22 23:47:48.371] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-04-22 23:47:50.957] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout
+[2022-04-22 23:47:56.268] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"Autocomplete":{"filename":"/home/ranchhor/Desktop/CODE/React/SpotifyClone/spotify-clone/server/server.js","before":"const express = require('express');\nconst SpotifyWebAPI =  require('spotify-web-api');\n\nconst app = express();\n\napp.post('./login' ,(req, res) => {\n    const code =req.body.code\n    const spotifyApi = new SpotifyWebAPI({\n        redirectUri: 'http://p=","after":":3000',\n        clientId: 'c3a421d34ad145e4b76859e547a44bf7',\n        clienSecret: '0214ef6ffacb4b73ad7c0cf7314204d3'\n    })\n    spotifyApi.authorizationCodeGrant(code).then(data => {\n        res.json({\n            accessToken: data.body.access_token,\n            refreshToken: data.body.refresh_token,\n            expiresIn: data.body.expires_in\n        })\n    }).catch(() => {\n        res.sendStatus(400)\n    })\n})","region_includes_beginning":true,"region_includes_end":true,"max_num_results":5,"offset":252,"line":8,"character":31}}
+	at Timeout._onTimeout (/home/ranchhor/.vscode/extensions/tabnine.tabnine-vscode-3.5.42/out/extension.js:17:31695)
+	at listOnTimeout (node:internal/timers:557:17)
+	at processTimers (node:internal/timers:500:7)
+[2022-04-22 23:52:51.171] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout
+[2022-04-23 00:09:52.679] [renderer1] [error] [Extension Host] validating /home/ranchhor/.config/Code/User/globalStorage/tabnine.tabnine-vscode/binaries/4.4.4/x86_64-unknown-linux-musl/TabNine timeout
+[2022-04-23 00:09:52.694] [renderer1] [error] [Extension Host] Error: Binary request timed out. {"State":{}}
+	at Timeout._onTimeout (/home/ranchhor/.vscode/extensions/tabnine.tabnine-vscode-3.5.42/out/extension.js:17:31695)
+	at listOnTimeout (node:internal/timers:557:17)
+	at processTimers (node:internal/timers:500:7)
